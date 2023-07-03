@@ -1,0 +1,6 @@
+﻿  EAGLS_ANALYSE.cpp
+D:\项目\逆向\gal\EaglsUnpack\EaglsUnpack\EAGLS_ANALYSE.cpp(234,16): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”
+D:\项目\逆向\gal\EaglsUnpack\EaglsUnpack\EAGLS_ANALYSE.cpp(261,38): warning C4244: “=”: 从“time_t”转换到“BYTE”，可能丢失数据
+D:\项目\逆向\gal\EaglsUnpack\EaglsUnpack\EAGLS_ANALYSE.cpp(205,10): warning C4101: “c”: 未引用的局部变量
+EaglsUnpack.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/INCREMENTAL:NO”规范)
+  EaglsUnpack.vcxproj -> D:\项目\逆向\gal\EaglsUnpack\Debug\EaglsUnpack.exe
